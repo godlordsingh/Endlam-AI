@@ -62,7 +62,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- 2. AI Configuration (Latest Gemini 2.5 Flash & No Filters) ---
-API_KEY = "YOUR_API_KEY_HERE"  # <--- Yahan apni asli API key paste rehne dena
+API_KEY = "AIzaSyAhlo6tx2G8lP0cLGDDvWYmLCHGnaXXYnk"  # <--- Yahan apni asli API key paste rehne dena
 genai.configure(api_key=API_KEY)
 
 low_safety = [
